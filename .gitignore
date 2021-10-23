@@ -1,0 +1,10 @@
+#Folder
+.idea/*
+.vs/*
+Binaries/*
+Intermediate/*
+Saved/*
+
+
+#Extensions
+*.sln
